@@ -1,0 +1,20 @@
+ # Data download from kaggle
+https://www.kaggle.com/kerneler/starter-analyzing-sentiments-related-c0c862fa-f?select=Test.csv
+
+***PRO_TITLE= predict the sentiment on product reviews ***
+
+About this file
+Dataset Description:
+
+Train.csv - 6364 rows x 4 columns (Inlcudes Sentiment Columns as Target)
+Test.csv - 2728 rows x 3 columns
+
+Attribute Description:
+
+TextID - Unique Identifier ProductDescription - Description of the product review by a user
+Product_Type - Different types of product (9 unique products)
+Class - Represents various sentiments
+0 - Cannot Say
+1 - NegativeDifferent types of product (9 unique products)
+2 - Positive
+3 - No Sentiment
